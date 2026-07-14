@@ -41,7 +41,7 @@ Retrieval is the clear bottleneck — classification accuracy drops from 0.71 (g
 
 ## Repository Contents
 
-- `COMP90042_A3.ipynb` — full pipeline: data loading, BM25/dense/TF-IDF/query-expansion retrieval, RRF fusion, cross-encoder reranking, BiLSTM/BERT/RoBERTa training, evaluation, and error analysis
+- `Climate_Fact_Check_RRF.ipynb` — full pipeline: data loading, BM25/dense/TF-IDF/query-expansion retrieval, RRF fusion, cross-encoder reranking, BiLSTM/BERT/RoBERTa training, evaluation, and error analysis
 - `report.pdf` — full written report with methodology, results tables, ablations, and comparison against an alternative DeBERTa+LoRA system
 
 ## Data
